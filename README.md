@@ -1,8 +1,6 @@
 # SnapGram
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repository.svg?style=social)](https://github.com/yourusername/your-repository/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repository.svg?style=social)](https://github.com/yourusername/your-repository/network/members)
+
 
 A web application similar to Instagram, built with React, Next.js, TypeScript, Vite, Tailwind CSS, and utilizing Appwrite for database, authentication, and storage. It integrates TanStack, Shadcn, and react-dropzone.
 
@@ -12,9 +10,6 @@ A web application similar to Instagram, built with React, Next.js, TypeScript, V
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
