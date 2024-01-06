@@ -1,4 +1,4 @@
-# TaleGram
+# SnapGram
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repository.svg?style=social)](https://github.com/yourusername/your-repository/stargazers)
