@@ -52,3 +52,29 @@ $ npm install
 # Configure Appwrite: Obtain your Appwrite credentials and set them up according to the documentation.
 $ npm run dev
 ```
+## Project structure
+```
+$PROJECT_ROOT
+├── index.html             # Entry point
+├── public
+│   └── assets
+│       ├── icons
+│       └── images
+└── src
+    ├── _auth
+    │   └── forms
+    ├── components
+    │   ├── forms
+    │   ├── shared      # Global components
+    │   └── ui          # Shadcn
+    ├── constants       # Constant variables
+    ├── context
+    ├── hooks
+    ├── lib
+    │   ├── appwrite    # Appwrite config
+    │   ├── react-query # React-query config
+    │   └── validation  # Schema validation with zod
+    ├── _root
+    │   └── pages
+    └── types           # Custom types
+```
